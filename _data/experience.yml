@@ -1,0 +1,80 @@
+# Experience template
+- layout: left
+  company: Headspace
+  project: Headspace for Work
+  job_title: Tech Lead, Full-Stack Developer
+  dates: 01/20 - current
+  quote: >
+    Improve the health and happiness of the world
+  description: |
+    <h4>Tech stack</h4>
+    **Javascript/NodeJS/Typescript, Hapi, MySQL, MongoDB, Elasticsearch, GitHub, CircelCI, AWS Cloud, Terraform, React, Redux, Apollo Client, GraphQL**
+
+    ---
+    <h4>Description</h4>
+    Designed and Implemented app micro services.
+
+    Improve app monitoring.
+
+    Improve development tools and environment.
+
+    Eligibility files processing and data synchronization. Multi step improved of service architecture
+- layout: left
+  company: Walmart Labs
+  project: Item Management Console
+  job_title: Tech Lead, Full-Stack Developer
+  dates: 07/19 - 12/19
+  quote: >
+      Save Money. Live Better.
+  description: |
+    <h4>Tech stack</h4>
+    **Javascript/NodeJS, Hapi, Solr, React, Redux, Enyme, Mocha, Sinon, GitHub, Jenkins, Azure Cloud**
+
+    ---
+    <h4>Description</h4>
+    Developed app features.
+
+    Improved developement tools, that reduced delivery time.
+
+    Improved CD pipeline that reduced time of install/transpile and test stages.
+
+    Leaded development team. Mentored less senior mates. Reviewed code to maintain code standards. Promoted development best practices.
+- layout: left
+  company: Hong Kong Jockey Club
+  project: Integrated Console System
+  job_title: Tech Lead, Full-Stack Developer
+  dates: 08/17 - 04/19
+  quote: >
+    Riding high together
+  description: |
+    <h4>Tech stack</h4>
+    **Javascript/NodeJS, React, Redux, Web Socket, ExpressJS, CI, Git, Mocha, Enzyme, Synon, Webpack, Jira, BitBucket, Jenkins**
+
+    ---
+    <h4>Description</h4>
+    Developed app features.
+
+    Improved developement tools,that reduced delivery time.
+
+    Improved CD pipeline that reduced time of install/transpile and test stages.
+
+    Leaded development team. Mentored less senior mates. Reviewed code to maintain code standards. Promoted development best practices.
+- layout: left
+  company: Any Furniture
+  project: Company web application
+  link:
+  job_title: Tech Lead, Full-Stack Developer
+  dates: 05/2014 - 04/2017
+  quote: >
+    Better service for professionals
+  description: |
+    <h4>Tech stack</h4>
+    **Javascript/NodeJS, React, Redux, Apollo Client, Styled-components, PDFJS, PHP, MySQL, SequelizeJS ORM, GraphQL, ExpressJS, ImageMagic, Dropbox API, Facebook API, MySQL, Git, BitBucket, Jenkins, AWS Cloud**
+
+    ---
+    <h4>Description</h4>
+    Developed app features.
+    Implemented responsive web design, to ensure the application renders well across multiple devices.
+    Monitored and maintained app performance.
+    Leaded and mentored team to maintain code standards and implement best practices.
+    Designed and improved information architecture to optimize operational costs.

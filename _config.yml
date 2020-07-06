@@ -1,0 +1,59 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Victor Storozhenko
+references_title: for EPAM assessment
+title: Result-focused Full-Stack engineer with successful record of delivering complex, content-rich enterprise-level applications.
+email:
+phone:
+website:
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: VicStor
+
+skills_title: Skills/Stack
+experience_title: Projects
+current_task_title: Current task
+
+more_content: |
+  Eligibility files processing and data synchronization. Multi-step data sync process
+  This is where you can write a little more about yourself. 
+  You could title this section **Interests** and include some of your other interests.
+
+  Initial architecture: ![image-title-here](/assets/img/init.png){:class="img-responsive"}
+  Target atchitecture: ![image-title-here](/assets/img/target.png){:class="img-responsive"}
+
+  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
