@@ -1,0 +1,28 @@
+- layout: skill
+  skill_set: Primary language
+  description: |
+    <mark>JavaScript</mark>/NodeJS/Typescript
+- layout: skill
+  skill_set: Back-End
+  description: |
+    Express/Hapi, SQL/NoSQL, Elasticsearch/Solr, AWS cloud
+- layout: skill
+  skill_set: Front-End
+  description: |
+    <mark>React</mark>, Redux, GraphQL, Webpack
+- layout: skill
+  skill_set: Unit tests
+  description: |
+    Jasmine, Jest, Mocha, Enzyme, Chai, Synon
+- layout: skill
+  skill_set: Environment
+  description: |
+    <mark>AWS</mark>, <mark>Docker</mark>, Git (GitHub/BitBucket), CI, CD (Jenkins/CircleCI), Agile
+- layout: skill
+  skill_set: Monitoring tools
+  description: |
+    AWS CloudWatch, Elasticstack, Lightstep, Grafana, Sentry, Datadog
+- layout: skill
+  skill_set: UI/UX
+  description: |
+    Sketch
